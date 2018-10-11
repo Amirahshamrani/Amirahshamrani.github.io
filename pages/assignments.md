@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/Assignments/Data_Analytics_HW1.ipynb)| [assignment1 repositiory]()
 
 ---
 

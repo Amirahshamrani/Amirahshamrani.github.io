@@ -51,10 +51,10 @@ Results | Repository
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
 {Add description of example an assignment here}
-(Amirahshamrani.github.io/Assignments/Data_Analytics_HW2.ipynb)
+()
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results](Amirahshamrani.github.io/Assignments/Data_Analytics_HW1.ipynb)| [assignment2 repositiory]()|
 
 ---
 

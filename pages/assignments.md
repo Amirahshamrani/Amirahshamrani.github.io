@@ -52,9 +52,9 @@ Results | Repository
 
 {Add description of example an assignment here}
 ()
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment2 results](Amirahshamrani.github.io/Assignments/Data_Analytics_HW1.ipynb)| [assignment2 repositiory]()|
+Results | Repository
+---|---
+| [assignment2 results](https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/Assignments/Data_Analytics_HW2.ipynb)| [assignment2 repositiory]()|
 
 ---
 

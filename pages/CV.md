@@ -1,7 +1,7 @@
 ---
 layout: page
-title: courses
-description: Student's Courses
+title: CV
+description: CV
 ---
 
 <div class="navbar">

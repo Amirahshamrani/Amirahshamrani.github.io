@@ -5,11 +5,11 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{Graduate Student}
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+{Amirah}
 
 
 #### <a name="researchbackground"></a>research background

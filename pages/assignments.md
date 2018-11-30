@@ -74,7 +74,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results](https://github.com/Amirahshamrani/Amirahshamrani.github.io/upload)| [assignment3 repositiory]()|
+| [assignment3 results](https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/Assignments/DataAnalytics_HW3.ipynb)| [assignment3 repositiory]()|
 
 ---
 

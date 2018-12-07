@@ -1,17 +1,15 @@
 ---
 layout: frontpage
 title: Amirah
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description: Amirah Alshamrani is a graduate student at The George Washington University. I study Computer Science with focus on Database and Information retreival Systems.
+keywords: computer science, data analytics
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_Amirah.pdf">cv</a></li>
+          <li><a href="https://github.com/bsharvey">github</a>/li>
       </ul>
   </div>
 </div>

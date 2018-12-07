@@ -8,8 +8,7 @@ keywords: computer science, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV_Amirah.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a>/li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_Amirah%20.pdf">cv</a></li>
       </ul>
   </div>
 </div>

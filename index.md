@@ -18,7 +18,7 @@ keywords: computer science, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/Assignments/Data_Analytics_HW2.ipynb">
+    <a href="pages/publpics/tian2016_fig4.html">
         <img src="assets/publpics/Breast_Cancer_Analysis.png" title="Breast_Cancer_Analysis"/>
     </a>
   </td>

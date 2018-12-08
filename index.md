@@ -33,7 +33,7 @@ keywords: computer science, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/Controversial_Topic_Analysis.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/Controversial_Topic_Analysis.png" alt="Broman et al. (2013) Fig 7" title="Controversial_Topic_Analysis Fig"/>
     </a>
   </td>
   <td class="right">

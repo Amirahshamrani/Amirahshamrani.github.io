@@ -23,7 +23,7 @@ keywords: computer science, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/assets/test_arabic_project.ipynb">
         <img src="assets/publpics/Arabic_Sentiment_Analysis.png" title="Arabic Sentiment Analysis"/>
     </a>
   </td>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-description: Student's Presentations in Data Analytics
+title: Presentation
+description: Presentation in Data Analytics
 ---
 
 
@@ -9,8 +9,7 @@ description: Student's Presentations in Data Analytics
 
 #### EMSE 6992 Final Project: Arabic Sentiment Analysis: Comparison of the ML Algorithms
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)<br/>
 &nbsp; &nbsp; &nbsp; 
 
 ---

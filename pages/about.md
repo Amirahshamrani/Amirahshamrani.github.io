@@ -18,9 +18,8 @@ I am intersted in social computing and predictive data analytics
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Amirah.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/assets/CV_Amirah%20.pdf)
 
----
 
 
 

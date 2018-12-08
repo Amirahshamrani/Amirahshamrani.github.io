@@ -18,8 +18,8 @@ keywords: computer science, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/Breast_Cancer_Analysis.png" alt="R/qtlcharts example" title="Breast_Cancer_Analysis"/>
+    <a href="pages/Assignments/Data_Analytics_HW2.ipynb">
+        <img src="assets/publpics/Breast_Cancer_Analysis.png" title="Breast_Cancer_Analysis"/>
     </a>
   </td>
   <td class="right">

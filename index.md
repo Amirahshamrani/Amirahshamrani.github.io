@@ -24,15 +24,14 @@ keywords: computer science, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/Arabic_Sentiment_Analysis.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        <img src="assets/publpics/Arabic_Sentiment_Analysis.png" title="Arabic Sentiment Analysis"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/Controversial_Topic_Analysis.png" alt="Broman et al. (2013) Fig 7" title="Controversial_Topic_Analysis Fig"/>
+    <a href="http://sbp-brims.org/2018/proceedings/papers/latebreaking_papers/LB_16.pdf">
+        <img src="assets/publpics/Controversial_Topic_Analysis.png" title="Controversial_Topic_Analysis"/>
     </a>
   </td>
   <td class="right">

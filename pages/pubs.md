@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Amirah's publications
 ---
 
 <div class="navbar">
@@ -12,8 +12,5 @@ description: Ben Harvey's publications
     </div>
 </div>
 
-
-
----
 
 

@@ -7,7 +7,7 @@ description: Ben Harvey's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#publications">dissertation</a></li>
+            <li><a href="#publications">pulications</a></li>
         </ul>
     </div>
 </div>

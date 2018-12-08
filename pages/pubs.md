@@ -13,8 +13,6 @@ description: Ben Harvey's publications
 </div>
 
 
-#### <a name="book"></a>publications
-
 
 ---
 

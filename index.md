@@ -18,9 +18,8 @@ keywords: computer science, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/Breast_Cancer_Analysis.png" alt="Tian et
-        al. (2016) Fig 4"  title="Breast_Cancer_Analysis"/>
+    <a href="https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/Assignments/Data_Analytics_HW2.ipynb">
+        <img src="assets/publpics/Breast_Cancer_Analysis.png" title="Breast_Cancer_Analysis"/>
     </a>
   </td>
   <td class="right">

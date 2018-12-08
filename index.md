@@ -35,8 +35,8 @@ keywords: computer science, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/amazon_mturk_analysis.png"  title="Tian et al. (2015) Fig 4"/>
+    <a href="https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/assets/Amazon%20Mturk.pdf">
+        <img src="assets/publpics/amazon_mturk_analysis.png"  title="Amazon Mturk Analysis"/>
     </a>
   </td>
 </tr>

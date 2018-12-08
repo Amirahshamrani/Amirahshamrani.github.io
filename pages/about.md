@@ -5,19 +5,16 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Graduate Student}
+Graduate Student
 
 
 #### <a name="previousposition"></a>previous positions
-{Amirah}
+Amirah Alshamrani
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+I am intersted in social computing and predictive data analytics 
 
-
-#### <a name="education"></a>ecucation
-{Insert text here}
 
 
 #### <a name="cvandresume"></a>cv and resume

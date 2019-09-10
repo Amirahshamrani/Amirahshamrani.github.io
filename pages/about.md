@@ -8,9 +8,6 @@ description: Benjamin Harvey is...
 Graduate Student
 
 
-#### <a name="previousposition"></a>previous positions
-Amirah Alshamrani
-
 
 #### <a name="researchbackground"></a>research background
 I am intersted in social computing and predictive data analytics 

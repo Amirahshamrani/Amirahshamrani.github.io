@@ -9,7 +9,7 @@ description: Presentation in Data Analytics
 
 #### EMSE 6992 Final Project: Arabic Sentiment Analysis: Comparison of the ML Algorithms
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://github.com/Amirahshamrani/Amirahshamrani.github.io/blob/master/assets/Arabic%20ML.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)]()<br/>
 &nbsp; &nbsp; &nbsp; 
 
 ---
